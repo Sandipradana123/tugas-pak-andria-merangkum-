@@ -1,0 +1,54 @@
+KONSEP DASAR  WEB
+Website merupakan kumpulan halaman digital yang berisi informasi 
+
+berupa teks, animasi, gambar, suara dan video atau gabungan dari semuanya 
+
+yang terkoneksi oleh internet, sehingga dapat dilihat oleh seluruh siapapun 
+
+yang terkoneksi jaringan internet
+ A .Web statis merupakan halaman yang tidak pernah berubah 
+B. Web dinamis merupakan webiste secara struktur diperuntukkan untuk diupdate  sesering mungkin, biasanya disediakan halaman back end untuk melakukan perubahan konten dari website tersebut
+C. Web interaktifmerupakan website 
+Yang berinteraksi antar penggunaan nya
+PENGERTIAN PEMROGRAMAN WEB
+Pemrograman web adalah pembuatan aplikasi program dengan bahasa skrip yang akan menghasilkan aplikasi
+BAHASA SKRIP PEMROGRAMAN WEB yaitu ada html, css, php,JavaScript
+ISTILAH ISTILAH PEMROGRAMAN WEB
+1.internet yaitu rangkaian komputer yang terhubung menjadi beberapa rangkaian jaringan
+2.world wide webweb(WWW)
+Www merupakan kumpulan server di seluruh dunia
+3.website merupakan suatu halaman yang dapat di akses
+4. Web server merupakan perangkat lunak yang digunakan untuk untuk menerima permintaan melalui protokol http
+5.url merupakan suatu alamat yang menunjukkan suatu halaman
+6. Http merupakan bagian dari url digunakan untuk mengidentifikasi lokasi web 
+7.dns merupakan sistem database terdistribusi yang tidak banyak Dipengaruhi oleh bertambah nya database
+8.ip internet Protocol merupakan protocol yang digunakan dalam internet
+9.hperlink atau disebut link merupakan sebuah tools yang berperan dalam mempopulerkan penggunaan internet
+STRUKTUR NAVIGASI LINEAR merupakan rangkaian urutan tampilan dari sebuah website yang ditampilkan secara berurut
+STRUKTUR NAVIGASI HIRARKI merupakan suatu struktur yang mengandalkan percabangan untuk menampilkan data
+STRUKTUR NAVIGASI NON LINEAR merupakan pengembangan dari struktur navigasi linear
+STRUKTUR NAVIGASI CAMPURAN disebut struktur navigasi bebas
+TEXT EDITOR MERUPAKAN sebuah alat untuk melakukan pemrograman
+PENGERTIAN HTML(hpyertext markup language)  adalah bahasa yang digunakan untuk menampilkan sebuah website  , HTML diawal dengan tag <HTML> dan isinya pertama adalah <head> lalu <body>
+
+PENGERTIAN PHP adalah bahasa script berbasis server yang mampu menparsing kode php dari kode web dengan extensi . Php, php pertama kali dikembangkan oleh seseorang programer bernama rasmus lerdrof pada tahun 1995
+PERBEDAAN HTML DENGAN PHP
+HTML dapat diakses langsung tanpa melalui akses server saat ada permintaan dari client (browser) 
+PHP harus di akses melalui server pada saat ada permintaan dari client
+DASAR DASAR PHP 
+VARIABLE merupakan sebuah istilah tempat untuk menampung nilai nilai tertentu, variable ditandai dengan tanda dolar$
+TIPE DATA ada 6 di php yaitu integer, double, string, boolean, objekt array
+OPERATOR merupakan sebuah simbol yang berfungi untuk melakukan aksi 
+JENIS JENIS OPERATOR 
+1.operator aritmatika digunakan untuk menghitung matematika
+2.operator perbandingan digunakan untuk menghasilkan 2 nilai yang akhirnya adalah nilai boolean true dan false
+3.operator logika untuk menyusun kalimat expressiexpressi/ungkapan logika hasil operator ini akan didapatkan nilai satu jika benar dan nol jika salah
+4.Operator string digunakan untuk penggabungan Teks 
+PERCABANGAN
+a. Statemen if
+1.If tunggal merupakan statemen yang penting Dan pasti terdapat di semua bahasa pemrograman. Statemen ini berguna 
+Untuk membuat percabangan berdasarkan kondisi tertentu yang harus di penuhi, prinsip kerjanya adalah jika true dikerjakan jika false tidak dikerjakan
+
+PERULANGAN atau looping digunakan untuk mempermudah melakukan proses yang berulang ulang sesuatu 
+JAVASCRIPT merupakan bahasa yang banyak digunakan dalam teknologi internet,bahasa ini dapat berkerja di mozila, Firefox dan browser lainnya 
+CSS adalah bahasa yang digunakan untuk mengatur tampilan web agar lebih bagus
